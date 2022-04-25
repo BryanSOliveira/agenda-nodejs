@@ -1,6 +1,6 @@
 # 📗 Projeto agenda
 
-## 💻 Tecnologicas
+## 💻 Tecnologias
 
 - Javascript
 - Node (Express)
