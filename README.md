@@ -1,2 +1,7 @@
-# agenda-nodejs
-Projeto desenvolvido no curso de JavaScript e TypeScript da Udemy.
+# 📗 Projeto agenda
+
+## 💻 Tecnologicas
+
+- Javascript
+- Node (Express)
+- MongoDB
